@@ -1,0 +1,4 @@
+PATCH http://localhost:8080/point/5/charge
+Content-Type: application/json
+
+ 30000
