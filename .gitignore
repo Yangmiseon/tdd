@@ -1,0 +1,17 @@
+# IntelliJ
+.idea/
+*.iml
+
+# 빌드
+/out/
+/target/
+
+# 로그
+*.log
+
+# OS/기타
+.DS_Store
+Thumbs.db
+
+# 환경 설정
+.env
